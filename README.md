@@ -37,7 +37,7 @@ Before going to install and run the project, there are some things need to know.
 ### **Installation**
 **Step 1** : Clone the directory withe the command
 ```
-git clone https://github.com/ahari884/simple-node-boilerplate.git
+git clone 
 ```
 and cd to simple-node-boilerplate
 ```
@@ -69,6 +69,3 @@ Open browser and enter url : http://localhost:3000/ and then you should see :
     "success": true
 }
 ```
-Ooops done with the runnig app :relaxed:
-
-Let's go rock the node world :grin: :grin: :grin:
